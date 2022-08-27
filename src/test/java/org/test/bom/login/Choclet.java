@@ -9,8 +9,10 @@ public class Choclet {
 }
 	private void sweet3() {
 System.out.println("grape");
+}
+private void sweet() {
+	System.out.println();
 
-	}
-	
+}	
 
 }
